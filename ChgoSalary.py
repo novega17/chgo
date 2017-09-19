@@ -12,9 +12,9 @@ The City of Chicago City Council
 REJECTED_MSG = """
 Hi Employee {}:
 On review of your title of {} the dept was {}, your full/partime status was {} and type was {}.
-We are sorry to advise you that the salary level of {} is too far above recommended level and will be decreased 10%.  
-Thank you for your understanging.
-Workshop Organizers
+We are sorry to advise you that the salary level of {} is too far above recommended level and will be decreased 1%.  
+Thank you for your understanding.
+The City Council
 
 
 """
